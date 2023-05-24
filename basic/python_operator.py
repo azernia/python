@@ -11,7 +11,7 @@ print(num1 * num2)
 print(num1 / num2)
 # 取模
 print(num1 % num2)
-# 幂
+# 幂 返回x的y次幂
 print(num1 ** num2)
 # 取整除
 print(num1 // num2)
